@@ -1,0 +1,9 @@
+name = "pp1"
+description = "Shiny new project"
+version = "0.1.0-dev"
+
+authors = ["Mykyta"]
+maintainers = ["Mykyta <ntomilin@ukr.net>"]
+maintainers-logins = ["ntomilin"]
+
+executables = ["pp1"]
